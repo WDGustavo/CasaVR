@@ -5,7 +5,7 @@ using UnityEngine;
 public class MovePlayer : MonoBehaviour
 {
 
-    float speed = 10;
+    public float speed = 10;
     bool isFoward = false;
     bool isBack = false;
     bool isLeft = false;
